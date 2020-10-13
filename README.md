@@ -2,7 +2,7 @@
 
 1> check ip 
 
-  1.1> server/src/www/client2.js (check ip to local)
+  1.1> server/src/www/index.html (check ip to local)
   
   1.2> app/src/main/java/cuzhy/com/webtc (socketAddress)
   
